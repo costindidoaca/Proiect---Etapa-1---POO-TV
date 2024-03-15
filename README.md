@@ -1,5 +1,5 @@
 Proiect Etapa 1 POO TV
-Costin Didoaca 323 CA
+Costin Didoaca 
 
 *******************************************************************************
 
